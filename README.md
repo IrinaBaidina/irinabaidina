@@ -50,7 +50,7 @@ Docker, Git, GitLab, GitLab CI/CD, Nginx, Debian / Linux
 
 <p>
 🌐 <b>Сетевые технологии:</b><br>
-HTTPS, gRPC, SSL, TLS, клиент-серверная архитектура
+HTTPS, SSL, TLS, клиент-серверная архитектура
 </p>
 
 ---
