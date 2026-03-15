@@ -25,7 +25,7 @@
 
 <p>
 👨‍💻 <b>Языки программирования:</b><br>
-Python, JavaScript, TypeScript, C#, HTML, CSS
+Python, JavaScript, TypeScript, HTML, CSS, C#, C++
 </p>
 
 <p>
