@@ -13,9 +13,9 @@
 <ul>
 <li>🎓 Образование: <b>Прикладная математика и информатика</b>, бакалавриат + магистратура (в процессе завершения)</li>
 <li>💻 Full-stack разработчик: JavaScript, Python, Django REST Framework, React, Node.js</li>
-<li>🚀 Сейчас занимаюсь разработкой платформы для <b>учета рабочего времени, отчетности, планирования ресурсов и финансовых потоков</b></li>
+<li>🚀 Сейчас занимаюсь разработкой платформы для учета рабочего времени, отчетности, планирования ресурсов и финансовых потоков</li>
 <li>⚙️ Опыт разработки backend и frontend</li>
-<li>🧪 Опыт <b>тестирования программного обеспечения</b></li>
+<li>🧪 Опыт тестирования программного обеспечения</li>
 <li>📚 Постоянно изучаю новые технологии и развиваюсь как инженер</li>
 </ul>
 
@@ -23,13 +23,9 @@
 
 <h2>🛠 Технологический стек</h2>
 
-<h3>Языки программирования</h3>
-
-<h2>Skills</h2>
-
 <p>
 👨‍💻 <b>Языки программирования:</b><br>
-Python, JavaScript, TypeScript
+Python, JavaScript, TypeScript, C#, HTML, CSS
 </p>
 
 <p>
@@ -56,41 +52,6 @@ Docker, Git, GitLab, GitLab CI/CD, Nginx, Debian / Linux
 🌐 <b>Сетевые технологии:</b><br>
 HTTPS, gRPC, SSL, TLS, клиент-серверная архитектура
 </p>
-
-<p>
-🎨 <b>Инструменты и дизайн:</b><br>
-Figma, тестирование ПО, настройка Windows и рабочего окружения
-</p> 
-
----
-
-<h3>Базы данных</h3>
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
-</p>
-
-• PostgreSQL  
-• MySQL  
-• Redis  
-• проектирование реляционных БД  
-
----
-
-<h3>DevOps и инструменты</h3>
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,gitlab,nginx,linux" />
-</p>
-
-Опыт работы с:
-
-• Git / GitLab  
-• GitLab Runner  
-• CI/CD пайплайны  
-• Docker  
-• Nginx  
-• Debian / Linux  
 
 ---
 
@@ -126,7 +87,7 @@ Figma, тестирование ПО, настройка Windows и рабоче
 
 ---
 
-<h2>📫 Контакты</h2>
+<h2>Контакты</h2>
 
 <p>
 📧 Email: <a href="mailto:baidinairina@list.ru">baidinairina@list.ru</a><br>
