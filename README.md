@@ -1,6 +1,6 @@
-<h1 align="center">Привет! 👋 Я Ирина Байдина</h1>
+<h1 align="center">Привет! Я Ирина Байдина</h1>
 
-<h3 align="center">Full-Stack разработчик • Python • React • Node.js</h3>
+<h3 align="center">Full-Stack разработчик • JavaScript • React • Python • Django REST Framework</h3>
 
 <p align="center">
 Разрабатываю веб-приложения, backend-сервисы и пользовательские интерфейсы.
@@ -11,9 +11,9 @@
 <h2>👩‍💻 Обо мне</h2>
 
 <ul>
-<li>🎓 Образование: <b>Прикладная математика</b>, бакалавриат + магистратура (в процессе завершения)</li>
-<li>💻 Full-stack разработчик: Python, Django, React, Node.js</li>
-<li>🚀 Участвую в разработке платформ для <b>учета рабочего времени, отчетности и планирования ресурсов</b></li>
+<li>🎓 Образование: <b>Прикладная математика и информатика</b>, бакалавриат + магистратура (в процессе завершения)</li>
+<li>💻 Full-stack разработчик: JavaScript, Python, Django REST Framework, React, Node.js</li>
+<li>🚀 Сейчас занимаюсь разработкой платформы для <b>учета рабочего времени, отчетности, планирования ресурсов и финансовых потоков</b></li>
 <li>⚙️ Опыт разработки backend и frontend</li>
 <li>🧪 Опыт <b>тестирования программного обеспечения</b></li>
 <li>📚 Постоянно изучаю новые технологии и развиваюсь как инженер</li>
@@ -25,48 +25,42 @@
 
 <h3>Языки программирования</h3>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
-</p>
-
----
-
-<h3>Frontend разработка</h3>
+<h2>Skills</h2>
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs" />
+👨‍💻 <b>Языки программирования:</b><br>
+Python, JavaScript, TypeScript
 </p>
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+⚙️ <b>Frontend:</b><br>
+React, Vite, Tailwind CSS, Radix UI, Shadcn UI, jQuery, DOM API
 </p>
-
-Дополнительно использую:
-
-• Radix UI  
-• Shadcn UI  
-• Lucide Icons  
-• DOM API  
-• jQuery  
-
----
-
-<h3>Backend разработка</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,django,nodejs" />
+🧩 <b>Backend:</b><br>
+Django, Django REST Framework, Node.js, REST API, ORM
 </p>
 
-Технологии:
+<p>
+💽 <b>Базы данных:</b><br>
+PostgreSQL, MySQL, Redis
+</p>
 
-• Django  
-• Django REST Framework  
-• Node.js  
-• ORM  
-• REST API  
-• Redis  
+<p>
+🔧 <b>DevOps и инфраструктура:</b><br>
+Docker, Git, GitLab, GitLab CI/CD, Nginx, Debian / Linux
+</p>
+
+<p>
+🌐 <b>Сетевые технологии:</b><br>
+HTTPS, gRPC, SSL, TLS, клиент-серверная архитектура
+</p>
+
+<p>
+🎨 <b>Инструменты и дизайн:</b><br>
+Figma, тестирование ПО, настройка Windows и рабочего окружения
+</p> 
 
 ---
 
