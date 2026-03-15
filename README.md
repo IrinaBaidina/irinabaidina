@@ -1,4 +1,4 @@
-<h1 align="center">Привет! Я Ирина Байдина</h1>
+<h1 align="center">Привет! Меня зовут Ирина Байдина</h1>
 
 <h3 align="center">Full-Stack разработчик • JavaScript • React • Python • Django REST Framework</h3>
 
