@@ -1,4 +1,4 @@
-<h1 align="center">Привет, меня зовут Байдина Ирина!</h1>
+<h1 align="center">Привет, меня зовут Ирина</h1>
 
 <h3 align="center">Full-Stack разработчик • JavaScript • React • Python • Django REST Framework</h3>
 
@@ -8,73 +8,29 @@
 
 ---
 
-<h2>👩‍💻 Обо мне</h2>
+<h2>Обо мне</h2>
 
 <ul>
-<li>🎓 Образование: <b>Прикладная математика и информатика</b>, бакалавриат + магистратура</li>
-<li>💻 Full-stack разработчик: JavaScript, Python, Django REST Framework, React, Node.js</li>
-<li>🚀 Сейчас занимаюсь разработкой платформы для учета рабочего времени, отчетности, планирования ресурсов и финансовых потоков</li>
-<li>⚙️ Опыт разработки backend и frontend</li>
-<li>🧪 Опыт тестирования программного обеспечения</li>
-<li>📚 Постоянно изучаю новые технологии и развиваюсь как инженер</li>
+<li>Образование: <b>Прикладная математика и информатика</b>, бакалавриат + магистратура</li>
+<li>Full-stack разработчик: JavaScript  (React), Python (Django REST Framework), Node.js</li>
+<li>Сейчас занимаюсь разработкой платформы для учета рабочего времени, отчетности, планирования ресурсов и финансовых потоков</li>
+<li>Опыт тестирования программного обеспечения</li>
+<li>Постоянно изучаю новые технологии и развиваюсь как инженер-разработчик</li>
 </ul>
 
 ---
 
-<h2>🛠 Технологический стек</h2>
+<h2>Технологический стек</h2>
 
 <p>
-👨‍💻 <b>Языки программирования:</b><br>
-Python, JavaScript, TypeScript, HTML, CSS, C#, C++
+<b>Языки программирования:</b><br>
+JavaScript (React, Vite), TypeScript, Tailwind CSS, HTML, CSS, Python (Django, Django REST Framework), C#, C++
 </p>
-
 <p>
-⚙️ <b>Frontend:</b><br>
-React, Vite, Tailwind CSS, Radix UI, Shadcn UI, jQuery, DOM API
+
+<b>Инструменты:</b><br>
+Node.js, REST API, ORM, Radix UI, Shadcn UI, jQuery, DOM API, PostgreSQL, MySQL, MongoDB, Redis, Figma, Docker, Git, GitLab CI/CD, Nginx, Linux, Bash
 </p>
-
-<p>
-🧩 <b>Backend:</b><br>
-Django, Django REST Framework, Node.js, REST API, ORM
-</p>
-
-<p>
-💽 <b>Базы данных:</b><br>
-PostgreSQL, MySQL, Redis
-</p>
-
-<p>
-🔧 <b>DevOps и инфраструктура:</b><br>
-Docker, Git, GitLab, GitLab CI/CD, Nginx, Debian / Linux
-</p>
-
-<p>
-🌐 <b>Сетевые технологии:</b><br>
-HTTPS, SSL, TLS, клиент-серверная архитектура
-</p>
-
----
-
-<h3>Дополнительные навыки</h3>
-
-<ul>
-<li>🎨 Верстка интерфейсов по макетам <b>Figma</b></li>
-<li>🧪 Тестирование программного обеспечения</li>
-<li>⚙️ Настройка Windows и рабочего окружения разработчика</li>
-<li>📦 Установка инженерного и моделирующего ПО</li>
-</ul>
-
----
-
-<h2>🌐 Сетевые технологии</h2>
-
-Понимание принципов работы:
-
-• REST API  
-• HTTPS  
-• gRPC  
-• SSL / TLS  
-• клиент-серверная архитектура  
 
 ---
 
@@ -90,8 +46,8 @@ HTTPS, SSL, TLS, клиент-серверная архитектура
 <h2>Контакты</h2>
 
 <p>
-📧 Email: <a href="mailto:baidinairina@list.ru">baidinairina@list.ru</a><br>
-💬 Telegram: <a href="https://t.me/irina_baidina">@irina_baidina</a>
+Email: <a href="mailto:baidinairina@list.ru">baidinairina@list.ru</a><br>
+Telegram: <a href="https://t.me/irina_baidina">@irina_baidina</a>
 </p>
 
 ---
